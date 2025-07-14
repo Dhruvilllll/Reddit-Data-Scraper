@@ -37,7 +37,7 @@ Ideal for:
 |----------------|------|
 | Backend         | Python 3.10+ |
 | Reddit API      | [PRAW](https://praw.readthedocs.io/) |
-| LLM Integration | [GEMINI-PRO](https://airstudio.google.com/) |
+| LLM Integration | [GEMINI-PRO](https://aistudio.google.com/) |
 | UI              | [Streamlit](https://streamlit.io) |
 | Env Management  | `python-dotenv` |
 
